@@ -1,0 +1,110 @@
+/* 广告面 */
+.banner {
+    width: 375px; 
+    height: 355px;
+    background-color: #fffef5;
+    position: relative;
+    overflow: hidden;
+    top: -15px;
+}
+.banner .zbys1 {
+    position: absolute;
+    top: 12px;
+    left: -164px;
+}
+.banner .title1 {
+    position: absolute;
+    top: 148px;
+    left: 34px;
+}
+.banner .zbys2 {
+    position: absolute;
+    top: 128px;
+    left: 216px;
+}
+.banner .introduce {
+    position: absolute;
+    top: 280px;
+    left: 54px;
+} 
+
+/* 文段 */
+.words {
+    display: flex;
+    position: relative;
+    overflow: hidden;
+}
+.words .P div {
+    font-size: 14px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    margin-left: 16px;
+    color: #EB8651;
+} 
+.words .P div:nth-child(1) {
+    margin-top: 36px;
+}
+.words .pic1 {
+    position: absolute;
+    left: 142px;
+}
+
+/* 产品参数 */
+.detail {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+}
+.detail .title2{
+    margin-left: 54px;
+    margin-bottom: 36px;
+}
+.detail .product {
+    position: relative;
+    margin-left: 16px;
+}
+.detail .product .num1 {
+    position: absolute;
+    width: 29px;
+    height: 233px;
+    top: 66px;
+    left: 227px;
+}
+.detail .product .num2 {
+    position: absolute;
+    width: 29px;
+    height: 198px;
+    top: 287px;
+    left: 9px;
+}
+.detail .pic2 {
+    position: absolute;
+    top: 350px;
+    left: -183px;
+    opacity: 0.4;
+}
+.detail .msg .msg1{
+    margin-top: 58px;
+    margin-left: 16px;
+    color: #EB8651;
+    font-size: 14px;
+    line-height: 30px;
+}
+.detail .msg .msg2 {
+    margin-top: 24px;
+    margin-left: 16px;
+    font-size: 12px;
+    color: #989898;
+}
+.detail .msg .msg3 {
+    margin-top: 24px;
+    margin-left: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #1F1F1F;
+}
+.detail .guihua {
+    margin-top: -240px;
+    opacity: 0.7;
+}
