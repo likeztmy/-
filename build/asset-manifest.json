@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.290c267a.css",
-    "main.js": "/static/js/main.1e0bd5de.js",
+    "main.css": "/static/css/main.b2b376bb.css",
+    "main.js": "/static/js/main.3ec287f0.js",
     "static/media/蒙版组 5.png": "/static/media/蒙版组 5.633b3d6a29dcad479e22.png",
     "static/media/蒙版组 6.png": "/static/media/蒙版组 6.356ca62f34edbc19115c.png",
     "static/media/蒙版组 2.png": "/static/media/蒙版组 2.7e32390bb7067cf6d137.png",
@@ -12,11 +12,11 @@
     "static/media/组 94.png": "/static/media/组 94.82d121c1414e93c8fc32.png",
     "static/media/标题.png": "/static/media/标题.70856eaff2aa8cec8a72.png",
     "index.html": "/index.html",
-    "main.290c267a.css.map": "/static/css/main.290c267a.css.map",
-    "main.1e0bd5de.js.map": "/static/js/main.1e0bd5de.js.map"
+    "main.b2b376bb.css.map": "/static/css/main.b2b376bb.css.map",
+    "main.3ec287f0.js.map": "/static/js/main.3ec287f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.290c267a.css",
-    "static/js/main.1e0bd5de.js"
+    "static/css/main.b2b376bb.css",
+    "static/js/main.3ec287f0.js"
   ]
 }
